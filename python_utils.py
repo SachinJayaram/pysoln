@@ -6,9 +6,7 @@
 @date       9/2017
 """
 
-
 import shutil
-
 
 def copy_file(src, dest):
     """!
